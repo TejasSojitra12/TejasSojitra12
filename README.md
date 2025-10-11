@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/TejasSojitra12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E7CC3&center=true&vCenter=true&width=650&lines=Senior+Flutter+Developer+🚀;Cross-Platform+Mobile+Expert+%7C+Clean+Architecture;State+Management+Pro+%7C+Performance+Optimization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E7CC3&center=true&vCenter=true&width=650&lines=Senior+Flutter+Developer;Cross-Platform+Mobile+Expert+%7C+Clean+Architecture;State+Management+Pro+%7C+Performance+Optimization" alt="Typing SVG" />
   </a>
 </p>
 
