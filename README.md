@@ -39,24 +39,25 @@
 ``` dart
 const tejas = {
   "pronouns": "He/Him",
-  "code": ["Flutter", "Dart", "JavaScript", "Python"],
+  "code": ["Flutter", "Dart"],
   "askMeAbout": ["Mobile Dev", "Flutter", "Tech", "Architecture"],
   "technologies": {
     "mobile": {
-      "native": ["Android", "iOS"],
-      "hybrid": ["Flutter", "React Native"]
+      "native": ["Android"],
+      "hybrid": ["Flutter"]
     },
     "backEnd": {
       "firebase": ["Firestore", "Auth", "Functions", "Storage"],
-      "database": ["SQLite", "Hive", "SharedPreferences"]
+      "database": ["SQLite"]
     },
-    "devOps": ["Docker", "CI/CD", "GitHub Actions"],
-    "tools": ["Android Studio", "VS Code", "Xcode", "Figma"],
-    "architecture": ["MVVM", "Clean Architecture", "BLoC Pattern"]
+    "stateManagement": ["GetX", "BLoC"],
+    "tools": ["Android Studio", "VS Code"],
+    "architecture": ["Clean Architecture", "BLoC Pattern"]
   },
   "currentFocus": "Building scalable Flutter applications",
   "funFact": "I debug with coffee and solve problems with music 🎵"
 };
+
 ```
 
 ---
