@@ -104,7 +104,7 @@ const tejas = {
 
 <div align="center">
 
- <img src="https://github-profile-trophy.vercel.app/?username=TejasSojitra12&theme=purple&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+ <img src="https://github-profile-trophy.vercel.app/?username=TejasSojitra12&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
 
 </div>
 
@@ -114,7 +114,8 @@ const tejas = {
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasSojitra12&bg_color=0d1117&color=8E7CC3&line=88B0D3&point=FFA500&area_color=8E7CC3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasSojitra12&bg_color=0d1117&color=8E7CC3&line=6C9BD3&point=88B0D3&area_color=4B6B8A&area=true&hide_border=true" alt="GitHub Activity Graph" style="max-width: 100%; height: auto;" />
+
 </div>
 
 ---
