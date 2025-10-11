@@ -78,13 +78,25 @@ const tejas = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TejasSojitra12&show_icons=true&count_private=true&hide_border=true&title_color=8E7CC3&icon_color=8E7CC3&text_color=c9d1d9&bg_color=0d1117" alt="Tejas Sojitra github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSojitra12&layout=compact&hide_border=true&title_color=8E7CC3&text_color=c9d1d9&bg_color=0d1117" />
+
+  <!-- GitHub Stats and Top Languages -->
+  <table>
+    <tr>
+      <td align="center">
+        <img width="350px" src="https://github-readme-stats.vercel.app/api?username=TejasSojitra12&show_icons=true&count_private=true&hide_border=true&title_color=8E7CC3&icon_color=8E7CC3&text_color=c9d1d9&bg_color=0d1117" alt="Tejas Sojitra GitHub Stats" />
+      </td>
+      <td align="center">
+        <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSojitra12&layout=compact&hide_border=true&title_color=8E7CC3&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- GitHub Streak -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSojitra12&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8E7CC3&ring=8E7CC3&fire=FFA500&currStreakLabel=8E7CC3" alt="GitHub Streak" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSojitra12&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8E7CC3&ring=8E7CC3&fire=FFA500&currStreakLabel=8E7CC3" alt="GitHub Streak" />
-</div>
 
 ---
 
