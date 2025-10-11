@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,15&height=200&section=header&text=Tejas%20Sojitra&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Flutter%20Expert%20%7C%20Mobile%20App%20Architect&descAlignY=55&descSize=20)
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Senior+Flutter+Developer+%F0%9F%9A%80;Cross-Platform+Mobile+Expert;State+Management+Specialist;Performance+Optimization+Pro;Clean+Architecture+Advocate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&lines=Senior+Flutter+Developer+%F0%9F%9A%80;Cross-Platform+Mobile+Expert;State+Management+Specialist;Performance+Optimization+Pro;Clean+Architecture+Advocate)
 
 
 <!-- Profile Views & Followers -->
