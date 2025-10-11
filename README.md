@@ -3,7 +3,7 @@
 
 <!-- Animated Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6B5B95&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+Digital+Workspace+🚀;Building+Beautiful+Flutter+Apps+Since+2021" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Workspace+🚀;Building+Beautiful+Flutter+Apps+Since+2021;3%2B+Years+of+Mobile+Excellence;Let's+Create+Something+Amazing+Together!&color=gradient&height=100" alt="Typing SVG" />
 </div>
 
 <!-- Social Badges with Soft Colors -->
