@@ -33,7 +33,7 @@
 ---
 
 ### 💼 **Professional Snapshot**
-```dart
+dart
 const developer = {
   name: "Tejas Sojitra",
   role: "Flutter Expert",
@@ -47,6 +47,8 @@ const developer = {
     "Enterprise App Architecture"
   ]
 };
+
+
 
 🛠️ Technical Arsenal
 📱 Mobile Development
