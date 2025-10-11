@@ -2,10 +2,21 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,27&height=280&section=header&text=Hi%20👋%20I'm%20Tejas&fontSize=65&animation=twinkling&fontAlignY=35&desc=Flutter%20Expert%20%7C%20Mobile%20App%20Architect%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18&fontColor=fff)
 
 <p align="center">
+
   <a href="https://github.com/TejasSojitra12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E7CC3&center=true&vCenter=true&width=650&lines=Senior+Flutter+Developer;Cross-Platform+Mobile+Expert+%7C+Clean+Architecture;State+Management+Pro+%7C+Performance+Optimization" alt="Typing SVG" />
+    <img src="https://komarev.com/ghpvc/?username=TejasSojitra12&label=Profile%20Views&color=8E7CC3&style=flat-square" alt="Profile Views" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TejasSojitra12?tab=followers">
+    <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=flat-square&color=6C9BD3" alt="Followers" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TejasSojitra12?tab=stars">
+    <img src="https://img.shields.io/github/stars/TejasSojitra12?label=Stars&style=flat-square&color=88B0D3" alt="Stars" />
+  </a>
+
 </p>
+
 
 
 <!-- Social Badges with Soft Colors -->
