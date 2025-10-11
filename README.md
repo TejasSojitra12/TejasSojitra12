@@ -104,7 +104,7 @@ const developer = {
 ## 🏆 **Achievements & Certifications**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejasSojitra12&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TejasSojitra12&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 ### 🎖️ **Expertise Areas**
