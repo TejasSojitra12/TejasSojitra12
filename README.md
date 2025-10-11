@@ -122,7 +122,7 @@ const tejas = {
 
 ## 💼 Professional Journey
 
-<details>
+
 <summary><b>🚀 Click to explore my Flutter expertise</b></summary>
 <br>
 
@@ -156,7 +156,7 @@ graph TD
   - Code obfuscation
   - Secure data storage
 
-</details>
+
 
 ---
 
