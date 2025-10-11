@@ -197,7 +197,7 @@ graph TD
 
 --- -->
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 
 <div align="center">
 
