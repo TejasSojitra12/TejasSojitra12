@@ -160,7 +160,7 @@ graph TD
 
 ---
 
-## 🌈 Current Projects
+<!-- ## 🌈 Current Projects
 
 <div align="center">
 <table>
@@ -195,7 +195,7 @@ graph TD
 </table>
 </div>
 
----
+--- -->
 
 ## 🎯 2024 Goals
 
