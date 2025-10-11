@@ -9,7 +9,7 @@
 
 
 <!-- Social Badges with Soft Colors -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/TejasSojitra12">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -22,14 +22,15 @@
   <a href="https://twitter.com/TejasSojitra12">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
+</p>-->
 
 <!-- Profile Stats with Gradient -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TejasSojitra12&label=Profile%20Views&color=8E7CC3&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=flat-square&color=6B5B95" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=flat-square&color=6C9BD3" alt="Followers" />
   <img src="https://img.shields.io/github/stars/TejasSojitra12?label=Stars&style=flat-square&color=88B0D3" alt="Stars" />
 </p>
+
 
 ---
 ### 🌟 About Me
