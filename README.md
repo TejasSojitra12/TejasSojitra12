@@ -104,7 +104,7 @@ const tejas = {
 
 <div align="center">
 
- <img src="https://github-profile-trophy.vercel.app/?username=TejasSojitra12&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+ <img src="https://github-profile-trophy.vercel.app/?username=TejasSojitra12&theme=purple&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
 
 </div>
 
