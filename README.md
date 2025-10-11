@@ -233,9 +233,9 @@ graph TD
   <br><br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-sojitra-742941285/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejas.sojitra@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejassojitra.dev)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TejasSojitra12)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojitratejas12@gmail.com)
+  <!--[![Portfolio](https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejassojitra.dev)-->
+  <!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TejasSojitra12) -->
   
 </div>
 
