@@ -1,12 +1,8 @@
 <!-- Animated Wave Header with Peaceful Colors -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,27&height=280&section=header&text=Hi%20👋%20I'm%20Tejas&fontSize=65&animation=twinkling&fontAlignY=35&desc=Flutter%20Expert%20%7C%20Mobile%20App%20Architect%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18&fontColor=fff)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6B5B95&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Workspace" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=88B0D3&center=true&vCenter=true&width=650&lines=Building+Beautiful+Flutter+Apps+Since+2021" alt="Typing SVG" />
-</p>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6B5B95&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+Digital+Workspace;Building+Beautiful+Flutter+Apps+Since+2021" alt="Typing SVG" />
+</div>
 
 <!-- Social Badges with Soft Colors -->
 <p align="center">
