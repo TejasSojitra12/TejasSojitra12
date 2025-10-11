@@ -1,5 +1,6 @@
 <!-- Animated Wave Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tejas%20Sojitra&fontSize=45&fontAlignY=35&desc=Flutter%20Expert%20%7C%20Mobile%20App%20Architect&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tejas%20Sojitra&fontSize=45&animation=fadeIn&duration=1000&fontAlignY=35&desc=Flutter%20Expert%20%7C%20Mobile%20App%20Architect&descAlignY=55&descSize=20)
+
 
 <!-- Typing Animation -->
 <p align="center">
