@@ -1,172 +1,235 @@
-<!-- Animated Wave Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,15&height=200&section=header&text=Tejas%20Sojitra&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Flutter%20Expert%20%7C%20Mobile%20App%20Architect&descAlignY=55&descSize=20)
+<!-- Animated Wave Header with Peaceful Colors -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,27&height=280&section=header&text=Hi%20👋%20I'm%20Tejas&fontSize=65&animation=twinkling&fontAlignY=35&desc=Flutter%20Expert%20%7C%20Mobile%20App%20Architect%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18&fontColor=fff)
 
-<!-- Typing Animation -->
+<!-- Animated Introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6B5B95&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+Digital+Workspace+🚀;Building+Beautiful+Flutter+Apps+Since+2021" alt="Typing SVG" />
+</div>
+
+<!-- Social Badges with Soft Colors -->
 <p align="center">
   <a href="https://github.com/TejasSojitra12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Senior+Flutter+Developer+🚀;Cross-Platform+Mobile+Expert;State+Management+Specialist;Performance+Optimization+Pro;Clean+Architecture+Advocate" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/TejasSojitra12">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tejas.sojitra@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/TejasSojitra12">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-<!-- Profile Views & Followers -->
+
+<!-- Profile Stats with Gradient -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TejasSojitra12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=for-the-badge&color=02569B" alt="Followers" />
-</p>
-
-
-
-<!-- Profile Views & Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TejasSojitra12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=for-the-badge&color=02569B" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=TejasSojitra12&label=Profile%20Views&color=8E7CC3&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=flat-square&color=6B5B95" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/TejasSojitra12?label=Stars&style=flat-square&color=88B0D3" alt="Stars" />
 </p>
 
 ---
 
-## 🎯 Flutter Expert Profile
+<!-- About Me Section with Gradient Background -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🚀 Core Expertise
-- 🏗️ **Architecture**: Clean Architecture, MVVM, MVC, BLoC Pattern  
-- 🎨 **UI/UX**: Custom Animations, Complex UI, Material 3, Responsive Design  
-- 📱 **Platform**: iOS & Android Native Integrations, Platform Channels  
-- ⚡ **Performance**: App Optimization, Memory Management, Lazy Loading  
-- 🔧 **State Management**: GetX, Provider, Riverpod, BLoC  
-- 🌐 **Backend Integration**: REST APIs, GraphQL, WebSockets, Firebase  
+### 🌟 About Me
 
-### 💼 Professional Highlights
-```dart
-const developer = {
-  "name": "Tejas Sojitra",
-  "role": "Flutter Expert",
-  "experience": "3+ years",
-  "appsPublished": "10+",
-  "activeProjects": 5,
-  "specialization": [
-    "Complex UI Implementation",
-    "Performance Optimization",
-    "Custom Packages Development",
-    "Enterprise App Architecture"
-  ]
+```javascript
+const tejas = {
+    pronouns: "He" | "Him",
+    code: ["Flutter", "Dart", "JavaScript", "Python"],
+    askMeAbout: ["Mobile Dev", "Flutter", "Tech", "Architecture"],
+    technologies: {
+        mobile: {
+            native: ["Android", "iOS"],
+            hybrid: ["Flutter", "React Native"]
+        },
+        backEnd: {
+            firebase: ["Firestore", "Auth", "Functions", "Storage"],
+            database: ["SQLite", "Hive", "SharedPreferences"]
+        },
+        devOps: ["Docker", "CI/CD", "GitHub Actions"],
+        tools: ["Android Studio", "VS Code", "Xcode", "Figma"],
+        architecture: ["MVVM", "Clean Architecture", "BLoC Pattern"]
+    },
+    currentFocus: "Building scalable Flutter applications",
+    funFact: "I debug with coffee and solve problems with music 🎵"
 };
 ```
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🎨 Tech Stack & Tools
 
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-</p>
-
-### 🎯 State Management & Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-00A8CC?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-01579B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-00BCD4?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### 🔥 Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-00BFFF?style=for-the-badge&logo=hive&logoColor=white" />
-</p>
-
-### 🧰 Development Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-1ABC9C?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasSojitra12&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSojitra12&layout=compact&langs_count=8&theme=blue-green"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSojitra12&theme=blue-green&hide_border=false&stroke=FFFFFF&background=0D1B2A&ring=1B263B&fire=1B263B&currStreakLabel=1B263B" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejasSojitra12&theme=blue-green&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophies" />
-</div>
-
----
-
-## 🎖️ Expertise Areas
-
-| Category | Skills |
-|----------|--------|
-| **Advanced Animations** | Hero Animations, Custom Painters, Rive, Lottie |
-| **Performance** | 60+ FPS, Memory Optimization, Build Size Reduction |
-| **Testing** | Unit Tests, Widget Tests, Integration Tests |
-| **CI/CD** | GitHub Actions, Fastlane, Codemagic |
-| **Packages** | Custom Package Development, Plugin Creation |
-| **Security** | SSL Pinning, Code Obfuscation, Secure Storage |
-
----
-
-## 💡 Current Focus
-
-- 🔭 Working on **Enterprise Flutter Applications**
-- 🌱 Learning **Flutter Web & Desktop Support**
-- 👯 Collaborating on **Open Source Flutter Packages**
-- 💬 Ask me about **Flutter, Dart, Mobile App Architecture**
-- ⚡ Fun fact: **I can optimize any Flutter app to run at 60 FPS!**
-
----
-
-## 🤝 Let's Connect
-
+### 💜 Core Technologies
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TejasSojitra12)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejas.sojitra@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TejasSojitra12)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TejasSojitra12)
+| 📱 Mobile | 🎯 State Management | 🔧 Backend | 🛠️ Tools |
+|:---------:|:------------------:|:----------:|:--------:|
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![GetX](https://img.shields.io/badge/GetX-%238B5CF6.svg?style=for-the-badge&logo=flutter&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![Provider](https://img.shields.io/badge/Provider-%2361DAFB.svg?style=for-the-badge&logo=flutter&logoColor=black) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) |
+| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![BLoC](https://img.shields.io/badge/BLoC-%234285F4.svg?style=for-the-badge&logo=flutter&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) | ![Riverpod](https://img.shields.io/badge/Riverpod-%2300ACC1.svg?style=for-the-badge&logo=flutter&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
 
 ---
 
-## 💭 Flutter Philosophy
+## 📈 GitHub Analytics
 
 <div align="center">
-  <i>"Building beautiful, performant apps that users love - One widget at a time."</i>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TejasSojitra12&show_icons=true&count_private=true&hide_border=true&title_color=8E7CC3&icon_color=8E7CC3&text_color=c9d1d9&bg_color=0d1117" alt="Tejas Sojitra github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSojitra12&layout=compact&hide_border=true&title_color=8E7CC3&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSojitra12&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8E7CC3&ring=8E7CC3&fire=FFA500&currStreakLabel=8E7CC3" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TejasSojitra12&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasSojitra12&bg_color=0d1117&color=8E7CC3&line=88B0D3&point=FFA500&area_color=8E7CC3&area=true&hide_border=true" />
+</div>
+
+---
+
+## 💼 Professional Journey
+
+<details>
+<summary><b>🚀 Click to explore my Flutter expertise</b></summary>
+<br>
+
+```mermaid
+graph TD
+    A[Flutter Development] --> B[UI/UX Design]
+    A --> C[State Management]
+    A --> D[Backend Integration]
+    B --> E[Custom Animations]
+    B --> F[Responsive Design]
+    C --> G[GetX/Riverpod]
+    C --> H[BLoC Pattern]
+    D --> I[REST APIs]
+    D --> J[Firebase Services]
+```
+
+### 🎯 Specialized Skills
+
+- **🎨 UI/UX Excellence**
+  - Custom animations with Hero & Rive
+  - Material 3 Design implementation
+  - Responsive layouts for all screen sizes
+  
+- **⚡ Performance Optimization**
+  - 60+ FPS consistency
+  - Memory leak prevention
+  - Build size optimization
+  
+- **🔐 Security Implementation**
+  - SSL Certificate pinning
+  - Code obfuscation
+  - Secure data storage
+
+</details>
+
+---
+
+## 🌈 Current Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Project Alpha</h3>
+<div align="center">
+<a href="https://github.com/TejasSojitra12/project-alpha" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-8E7CC3?style=for-the-badge" width="200"/>
+</a>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+<p>Enterprise-level mobile application with advanced features</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Project Beta</h3>
+<div align="center">
+<a href="https://github.com/TejasSojitra12/project-beta" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-88B0D3?style=for-the-badge" width="200"/>
+</a>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+<p>Modern e-commerce platform with seamless UX</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🎯 2024 Goals
+
+<div align="center">
+
+| Quarter | Focus Area | Progress |
+|---------|------------|----------|
+| Q1 | Flutter Web Mastery | ![](https://geps.dev/progress/75) |
+| Q2 | Open Source Contributions | ![](https://geps.dev/progress/60) |
+| Q3 | Desktop App Development | ![](https://geps.dev/progress/40) |
+| Q4 | AI Integration in Flutter | ![](https://geps.dev/progress/25) |
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
+  <br>
+  <b>I'm always excited to work on new projects and connect with fellow developers!</b>
   <br><br>
-  <b>- Tejas Sojitra</b>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TejasSojitra12)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejas.sojitra@example.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejassojitra.dev)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TejasSojitra12)
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="marquee" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+  <br>
+  <b>Thanks for visiting my profile! Have a great day! 😊</b>
+  <br><br>
+  <img src="https://ForTheBadge.com/images/badges/built-with-love.svg" />
 </div>
 
-<h3 align="center">
-  ⭐ From <a href="https://github.com/TejasSojitra12">Tejas Sojitra</a> | Flutter Expert ⭐
-</h3>
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,15&height=100&section=footer" />
-</div>
+<!-- Footer Wave with Peaceful Colors -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,27&height=120&section=footer)
