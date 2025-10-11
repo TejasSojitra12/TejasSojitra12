@@ -242,14 +242,14 @@ graph TD
   
 </div>
 
----
+<!---
 
 <div align="center">
   <br>
   <b>Thanks for visiting my profile! Have a great day! 😊</b>
   <br><br>
   <img src="https://ForTheBadge.com/images/badges/built-with-love.svg" />
-</div>
+</div>--->
 
 <!-- Footer Wave with Peaceful Colors -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,27&height=120&section=footer)
