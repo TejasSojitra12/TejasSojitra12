@@ -26,11 +26,11 @@
 </p>-->
 
 <!-- Profile Stats with Gradient -->
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=TejasSojitra12&label=Profile%20Views&color=8E7CC3&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=flat-square&color=6C9BD3" alt="Followers" />
   <img src="https://img.shields.io/github/stars/TejasSojitra12?label=Stars&style=flat-square&color=88B0D3" alt="Stars" />
-</p>
+</p>-->
 
 
 
