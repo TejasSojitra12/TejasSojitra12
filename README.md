@@ -238,7 +238,6 @@ graph TD
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
   <br>
   <b>Thanks for visiting my profile! Have a great day! 😊</b>
   <br><br>
