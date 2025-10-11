@@ -36,26 +36,26 @@
 
 ### 🌟 About Me
 
-```javascript
+``` dart
 const tejas = {
-    pronouns: "He" | "Him",
-    code: ["Flutter", "Dart", "JavaScript", "Python"],
-    askMeAbout: ["Mobile Dev", "Flutter", "Tech", "Architecture"],
-    technologies: {
-        mobile: {
-            native: ["Android", "iOS"],
-            hybrid: ["Flutter", "React Native"]
-        },
-        backEnd: {
-            firebase: ["Firestore", "Auth", "Functions", "Storage"],
-            database: ["SQLite", "Hive", "SharedPreferences"]
-        },
-        devOps: ["Docker", "CI/CD", "GitHub Actions"],
-        tools: ["Android Studio", "VS Code", "Xcode", "Figma"],
-        architecture: ["MVVM", "Clean Architecture", "BLoC Pattern"]
+  "pronouns": "He/Him",
+  "code": ["Flutter", "Dart", "JavaScript", "Python"],
+  "askMeAbout": ["Mobile Dev", "Flutter", "Tech", "Architecture"],
+  "technologies": {
+    "mobile": {
+      "native": ["Android", "iOS"],
+      "hybrid": ["Flutter", "React Native"]
     },
-    currentFocus: "Building scalable Flutter applications",
-    funFact: "I debug with coffee and solve problems with music 🎵"
+    "backEnd": {
+      "firebase": ["Firestore", "Auth", "Functions", "Storage"],
+      "database": ["SQLite", "Hive", "SharedPreferences"]
+    },
+    "devOps": ["Docker", "CI/CD", "GitHub Actions"],
+    "tools": ["Android Studio", "VS Code", "Xcode", "Figma"],
+    "architecture": ["MVVM", "Clean Architecture", "BLoC Pattern"]
+  },
+  "currentFocus": "Building scalable Flutter applications",
+  "funFact": "I debug with coffee and solve problems with music 🎵"
 };
 ```
 
