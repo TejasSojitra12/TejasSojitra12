@@ -27,27 +27,9 @@
 
 <!-- Profile Stats with Gradient -->
 <p align="center">
-
-<table align="center" cellspacing="10">
-  <tr>
-    <td align="center" style="padding: 5px 15px; background-color: #0d1117; border-radius: 10px;">
-      <a href="https://github.com/TejasSojitra12">
-        <img src="https://komarev.com/ghpvc/?username=TejasSojitra12&label=Profile%20Views&color=8E7CC3&style=flat-square" alt="Profile Views" />
-      </a>
-    </td>
-    <td align="center" style="padding: 5px 15px; background-color: #0d1117; border-radius: 10px;">
-      <a href="https://github.com/TejasSojitra12?tab=followers">
-        <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=flat-square&color=6C9BD3" alt="Followers" />
-      </a>
-    </td>
-    <td align="center" style="padding: 5px 15px; background-color: #0d1117; border-radius: 10px;">
-      <a href="https://github.com/TejasSojitra12?tab=stars">
-        <img src="https://img.shields.io/github/stars/TejasSojitra12?label=Stars&style=flat-square&color=88B0D3" alt="Stars" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <img src="https://komarev.com/ghpvc/?username=TejasSojitra12&label=Profile%20Views&color=8E7CC3&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TejasSojitra12?label=Followers&style=flat-square&color=6C9BD3" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/TejasSojitra12?label=Stars&style=flat-square&color=88B0D3" alt="Stars" />
 </p>
 
 
